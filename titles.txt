@@ -1,0 +1,16 @@
+#iCity labs
+1. Brief history
+2. Organizational structure
+3. Main functional goals
+4. Projects (current and finished)
+4. Present performance (papers/projects wise/government grant)
+5. Strengths (Biggers community, help by good life)
+5. Opportunities (growth of elderly population, government concirn, loads of data, new colleberation with Lionbefenders)
+7. Weaknesses(Depends on others hardware(off the shelf)), no much industry exporture (research projects, need to improve a lot for industry standards)
+7. Threats (NUT same type of projects, high tech|totally depends on volenteering services in operational terms)
+8. Profitability (entire system could be sold for a very big value, number of reserch papers)
+8. Usefullness (very much usefull for the current age destribution)
+10. Sugessions to improve (take help from HW developers. Try to be more independant)
+10. Constrains to improve (Small lab| can't expand the group, bugetary constrains due to funding by outside)
+
+Neighborhood for Active Living (NodAL) Pilot
